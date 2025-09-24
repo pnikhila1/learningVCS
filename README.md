@@ -6,4 +6,6 @@ I have added a new file name sample.txt.
 
 this is to add moer info and check the code.
 
-this is adding another update to the same file.
+this is adding another update to the same file
+
+this is adding another line to the same code..
