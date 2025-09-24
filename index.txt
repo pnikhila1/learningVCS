@@ -2,4 +2,8 @@ this is a file created to learn merge conflicts
 
 new branch will be created
 
+1st line is added to the file:Nikhila's surname is pulikanti
+
+2nd line is added to the file: Nikhila's surname after marriage is Harkara
+
 this is to show the merge conflict in the branches
